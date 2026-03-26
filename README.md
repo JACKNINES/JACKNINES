@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%A7%AC+Molecular+Biology+%2B+Code+%3D+%E2%9C%A8;%F0%9F%A7%AA+Building+tools;%F0%9F%A4%96+Bridging+biology+and+AI;%F0%9F%92%BB+  Making+bioinformatics+accessible" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%A7%AC+Molecular+Biology+%2B+Code+%3D+%E2%9C%A8;%F0%9F%A7%AA+Building+tools;%F0%9F%A4%96+Bridging+biology+and+AI;%F0%9F%92%BB+Making+bioinformatics+accessible" alt="Typing SVG" />
 
 </div>
 
@@ -121,16 +121,6 @@ me.say_hi()
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JACKNINES&bg_color=0d1117&color=00d4aa&line=7b2fff&point=00d4aa&area_color=0d1117&area=true&hide_border=true" alt="Contribution Graph"/>
-</div>
-
----
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JACKNINES/JACKNINES/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JACKNINES/JACKNINES/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/JACKNINES/JACKNINES/output/github-snake-dark.svg" />
-  </picture>
 </div>
 
 ---

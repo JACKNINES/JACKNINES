@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%A7%AC+Molecular+Biology+%2B+Code+%3D+%E2%9C%A8;%F0%9F%A7%AA+Building+tools;%F0%9F%A4%96+Bridging+biology+and+AI;%F0%9F%92%BB+Making+bioinformatics+accessible" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%A7%AC+Molecular+Biology+%2B+Code+%3D+%E2%9C%A8;%F0%9F%A7%AA+Building+tools;%F0%9F%A4%96+Bridging+biology+and+AI;%F0%9F%92%BB+ARC+Raiders" alt="Typing SVG" />
 
 </div>
 
@@ -25,7 +25,7 @@
 class ElliotRidout:
     def __init__(self):
         self.name = "Elliot Ridout-Buhl"
-        self.role = "Molecular Biologis"
+        self.role = "Molecular Biologist"
         self.location = "🌎"
         self.interests = [
             "Computational Biology",
